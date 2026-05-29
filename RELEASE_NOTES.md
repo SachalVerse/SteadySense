@@ -27,6 +27,7 @@ SteadySense v1.0.0 is now available! This is the first official release of an in
 - Android device with modern sensors (accelerometer, gyroscope)
 - Android 8.0 or higher recommended
 - Internet connection required for Firebase and voice services
+- Minimum 50MB storage space for app installation
 
 ## 🔐 Permissions
 The app requires the following permissions:
@@ -38,11 +39,25 @@ The app requires the following permissions:
 - FOREGROUND_SERVICE
 - INTERNET
 
-## 📥 Installation
-1. Download the APK from the [apk directory](https://github.com/SachalVerse/SteadySense/tree/main/apk)
-2. Enable "Unknown Sources" in device settings
-3. Install and grant requested permissions
-4. Run the app and register as Elder or Caretaker
+## 📥 Installation & Download
+
+### 📲 Download APK
+**File**: SteadySense.apk  
+**Size**: ~14.5 MB  
+**Download Link**: [SteadySense.apk](https://github.com/SachalVerse/SteadySense/raw/main/apk/SteadySense.apk)
+
+### 📋 Installation Steps
+1. **Download** - Click the link above or download from the [apk directory](https://github.com/SachalVerse/SteadySense/tree/main/apk)
+2. **Enable Installation** - Go to Device Settings → Security → Enable "Unknown Sources" (or "Install Unknown Apps")
+3. **Install APK** - Open the downloaded SteadySense.apk file
+4. **Grant Permissions** - Allow all requested permissions when prompted
+5. **Launch App** - Open SteadySense and register as Elder or Caretaker
+
+### ⚠️ Important Notes
+- Only download from the official GitHub repository
+- Ensure your device has at least 50MB free space
+- For Android 11 & above, you may need to grant permissions through app settings
+- Keep the app updated for best performance and security
 
 ## 🎯 Use Cases
 - Elderly individuals living independently with family oversight
@@ -61,7 +76,7 @@ The app requires the following permissions:
 ## 📚 Documentation
 - Full README with screenshots and features: [README.md](https://github.com/SachalVerse/SteadySense/blob/main/README.md)
 - Privacy Policy: [View Here](https://delicate-froyo-10153b.netlify.app/)
-- Demo Video: [YouTube Demo](https://drive.google.com/file/d/1gQv-IG3dDVZMQ8c7aYBprSmZLbUe9ZQW/view?usp=sharing)
+- Demo Video: [Watch Demo](https://drive.google.com/file/d/1gQv-IG3dDVZMQ8c7aYBprSmZLbUe9ZQW/view?usp=sharing)
 
 ## 🔄 Future Enhancements
 - Smartwatch integration
@@ -69,6 +84,12 @@ The app requires the following permissions:
 - Health reminder notifications
 - Advanced analytics and reporting
 - Admin panel for health professionals
+
+## 🐛 Bug Reports & Support
+If you encounter any issues:
+1. Check the [Issues page](https://github.com/SachalVerse/SteadySense/issues)
+2. Report bugs with detailed description and screenshots
+3. Include your Android version and device model
 
 ## 👨‍💻 Developer
 **Maher Sachal** - Semester 6, Computer Science/Information Technology
