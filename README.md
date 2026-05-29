@@ -83,11 +83,11 @@ How to grant permissions:
 - Add admin panel for health professionals
 
 ## Developed By
-Sachal
-Semester Project
-Computer Science / Information Technology
-GitHub: https://github.com/SachalVerse/SteadySense
-LinkedIn: https://www.linkedin.com/posts/maher-sachal-736652353_androiddev-java-firebase-ugcPost-7465445276804112386-Gy1e/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgx3poBW6ZZ3Q4OuyZFb1EWad0OJQI8Cm8
+- Maher Sachal
+- Semester 6th
+- Computer Science / Information Technology
+- GitHub: https://github.com/SachalVerse/SteadySense
+- LinkedIn: https://www.linkedin.com/posts/maher-sachal-736652353_androiddev-java-firebase-ugcPost-7465445276804112386-Gy1e/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgx3poBW6ZZ3Q4OuyZFb1EWad0OJQI8Cm8
 
 ## Project Structure
 - `app/src/main/java/com/example/steadysense/` - Java source code for activities, adapters, helpers, models, and services
